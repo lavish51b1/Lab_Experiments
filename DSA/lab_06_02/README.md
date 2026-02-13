@@ -1,4 +1,4 @@
-# Experiment–1: Python Installation and Basics
+# Experiment–2: Linked List
 
 ## Objective -
     To study and implement linear data structures using Linked Lists in the C programming language, and to perform basic operations such as insertion, deletion, and traversal on Singly Linked List, Circular Linked List, and Doubly Linked List. Also, to implement Stack using a Singly Linked List and understand dynamic memory allocation using pointers.
