@@ -1,8 +1,8 @@
 # Experiment–8: GUI and Backend Connectivity Using Tkinter and SQLite
 
 ## Aim
-    To design GUI-based applications using Tkinter and connect them with backend databases
-    using SQLite.
+    To design the GUI-based applications using Tkinter and connect them with backend databases
+    using SQLite..
 
 ## Theory
     Tkinter is Python's standard library for building graphical user interfaces (GUIs).

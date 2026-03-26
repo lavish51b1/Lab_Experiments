@@ -1,4 +1,0 @@
-x = "Helloooo"
-print(x)
-
-
